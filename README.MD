@@ -6,7 +6,7 @@ Apprendre le markdown
 
 ## Chapitre 1
 
-un truc, une erreur
+un truc, correction
 
 ## Chapitre 2
 
