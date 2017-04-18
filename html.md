@@ -47,4 +47,4 @@ Il existe un grand nombre de fonctions aux css, qu'il serait trop long de citer 
 Ils ont plusieurs structures differentes, l'une d'entre elle est la suivante: 
 
 strong {color: red;}
-etc.
+etc...
