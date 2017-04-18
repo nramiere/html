@@ -56,7 +56,23 @@ Les blockchains permettent de suivre la progression de l'argent.
 
 Les differents transactions corrrespondent a des hash.
 
-Afin de voir d'où vient l'argent, dans un block donné, le hash du block precedent est affiché.
+Afin de voir d'où vient l'argent de la transaction, le hash du block précédent est affiché.
+
+Puisque l'argent doit a la base être donné à quelqu'un pour commencer des transactions, on rajoute la coinbase.
+ 
+ C'est-à-dire que Monsieur X reçoit une somme  de $100 qui lui permettra de payer Madame Y.
+ 
+ La coinbase est affichée au dessus des données afin de rappeler d'où vient l'argent à la base.
+ 
+ ##Conclusion
+ 
+ Les blockchains sont un myen sûr d'assurer les transactions financières en toutes sûreté.
+ 
+ La complexité des hash diffère en fonction de l'importance des données traitées.
+ 
+ L'algorithme de calcul des blockchains est en constante évolution, afin de rester efficace.
+ 
+ 
 
 
 
