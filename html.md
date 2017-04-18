@@ -26,9 +26,9 @@ Il existe des dizaines de balises differentes, qui servent a produire pleins de 
 
 La balise "texte area" permet par ex d'écrire dans un cadre.
 
-La balise "br" permet de revenir a la ligne, mais elle n'est pas beaucoup utilisée, cause de certains défauts.
+La balise "br" permet de revenir a la ligne, mais elle n'est pas beaucoup utilisée, à cause de certains défauts.
 
-La balise "input" indique une zone a remplir par un utilisateur, il faut en général préciser ces infos (name, age...)
+La balise "input" indique une zone à remplir par un utilisateur, il faut en général préciser ces infos (name, age...)
 
 Il existe en tout plus de 110 balises en HTML.
 
@@ -46,5 +46,14 @@ Il existe un grand nombre de fonctions aux css, qu'il serait trop long de citer 
 
 Ils ont plusieurs structures differentes, l'une d'entre elle est la suivante: 
 
+<html>
+ <body>
+ <p>
+ Superman is probably the strongest super hero, enven though Goku is bolder
+ </p>
+ </body>
+</html> 
+
 strong {color: red;}
 etc...
+
