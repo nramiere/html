@@ -13,7 +13,7 @@ L'absence de données elle-même peut être considérée comme une information: 
 Un block, bien souvent, se situe dans une blockchain, c'est-à-dire litteralement une chaîne de blocks.
 Dans cette fameuse blockchain, tous les blocks sont interdépendant.
 Le premier block seul est en quelque sorte indépendant.
-Ainsi, le premier hash va permettre, en l'integrant dans l'algorithme de créer le deuxième hash de le blockchain.
+Ainsi, le premier hash va permettre, en l'integrant dans l'algorithme de créer le deuxième hash de la blockchain.
 Et ainsi de suite, sur des chaînes de parfois 4000 blocks !
 
 
@@ -21,7 +21,7 @@ La plupart des blockchains auront un code, un caractère dans leurs hash qui se 
 On peut prendre pour exemple un hash qui commencerait par quatre 0.
 En rajoutant, ou en changeant les données d'un block dans la chaîne, le hash du block numero 2 va changer, ce qui va entraîner les changement des hash des blocks après le 2.
 Afin de "récuperer" notre code, on peut effectuer l'opération "remine" qui calcule le hash correspondant à la fois au code et à la fois aux données entrées. 
-On recupère un hash qui nous convient dans cette blockchain, et seul notre numero a changé. 
+On recupère un hash qui nous convient dans cette blockchain, et seul notre numéro a changé. 
 Afin de récuperer un hash pour chaque block qui a changé, on effectue la même opération.
 L'obligation de "reminer" chaque block est déjà une bonne sécurité en soit, mais il y en a une autre, en plus.
 Chaque blockchain a plusiuers copies d'elle-même;

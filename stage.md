@@ -31,18 +31,18 @@ J'ai appris observer la structure d'un site fait en html en utilisant F12
 J'ai commencé a utiliser des IDE professionels gratuit comme IntelliJ IDEA, et des
 dispositifs comme Github.
 
-J'ai appris à observer un code afin de comprendre les commandes faites a l'ordinateur, et à comprendre leurs utilités.
+J'ai appris à observer un code afin de comprendre les commandes faites à l'ordinateur, et à comprendre leurs utilitées.
 
 J'ai regardé de nombreuses vidéos youtube didactique qui m'ont permis d'observer des gens coder en direct.
 
 Ce stage m'a aussi permis d'avoir un aperçu de personnes dans une entreprise, au travail,
 j'ai pu voir qu'il ne sont que des gens normaux qui ont besoins de communiquer pour travailler efficacement;
 
-J'ai pu observer l'utilités de certaines balises den javascript comme aray, ou function.
+J'ai pu observer l'utilité de certaines balises den javascript comme aray, ou function.
 
 Les fonctions permettaient de determiner la variable q'on traitait.
 
-Les balises if/else if permettent de poser une condition a a un code.
+Les balises if/else if permettent de prévoir les differentes possibilités qui peuvent arriver et d'en informer l'ordinateur.
 
 ## Casse-brique
 
