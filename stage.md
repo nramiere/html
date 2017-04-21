@@ -1,12 +1,12 @@
 # Ce que je tire de ce stage
-##1.Les connaissances technique
+## 1.Les connaissances technique
 Depuis mon arrivée chez mon oncle le samedi midi, jusqu’au samedi suivant, je n’ai pas arrêté d’améliorer mes connaissances des différents langages : le html en première position, qui permet de créer des sites web et de mieux comprendre comment ils fonctionnent, mais aussi le css qui permet d’apporter des précisions intéressantes dans la mise en pages des sites, ainsi que le javascript, qui est un langage utilisé partout dans le monde, et dernièrement le python.
  
  J’ai pu aussi avoir un aperçu du fonctionnement de certains outils informatique, comme Git hub, qui permet aux informaticicens de travailler en coordination, ou même Kafka, qui est la base de gestion des messages informatique dans la BNP Paribas.
   
  Disposant d’un ordinateur, j’ai pu étudier certains principes très important de l’informatique, comme la récursion, la syntaxe des codes et le fonctionnement d’un algorithme informatique, qui sont utilisés tous les jours, pour a peu près tout les domaines que j’ai pu voir.
 
-##2.Ramiere consulting
+## 2.Ramiere consulting
 Le rôle de mon oncle a l’interieur de la partie informatique de la banque était d’assister les informaticiens, de leurs donner des solutions lorsqu’il rencntrait des problèmes qu’eux-mêmes n’était pas aptes a régler par eux-même.
  
  De ce fait, je n’ai pas beaucoup pu profiter de mon oncle puisqu’il avait beaucoup à faire, j’avais cependant des instructions concernat des choses à regarder ou à faire qui touchait le monde de l’informatique comme un néophyte comme moi peut l’aborder.
@@ -88,7 +88,9 @@ On peut s'en servir aussi pour les programmes nécessitant que la même action s
 
 Le triangle de Sierpinski est un bon exemple de figures récursives.
 
-On a aussi Julia 7, qui montre la beauté fascinante que peut créer la récursion
+On a aussi Julia 7, qui montre la beauté fascinante que peut créer la récursion.
+
+
  
  
                                                                         

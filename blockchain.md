@@ -28,7 +28,7 @@ Chaque blockchain a plusiuers copies d'elle-même;
 Si quelqu'un change une donnée, et prend toutes ses précautions pour éviter que ça ce voit, il ne pourra pas retrouver le hash d'orgine.
 Les copies mettent en évidence les differences de hash, et empechent les fraudes.
 
-##Tokens et Coinbase
+## Tokens et Coinbase
 
 Ces blockchains sont très utiles dans les transactions financières.
 L'affichage des transactions dans un block est appelé Token.
@@ -41,7 +41,7 @@ C'est-à-dire que Monsieur X reçoit une somme  de $100 qui lui permettra de pay
  
 La coinbase est affichée au dessus des données afin de rappeler d'où vient l'argent à la base.
  
-##Conclusion
+## Conclusion
 
 Les blockchains sont un moyen sûr d'assurer les transactions financières en toute sûreté.
 La complexité des hash diffère en fonction de l'importance des données traitées.
