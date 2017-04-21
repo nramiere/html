@@ -44,6 +44,8 @@ Les fonctions permettaient de determiner la variable q'on traitait.
 
 Les balises if/else if permettent de poser une condition a a un code.
 
+## Casse-brique
+
 Dans le code du casse brique que j'ai pu étudier, on utlisait les maths pour déterminer les conditions de rebond de la balle
 
 On utilisait un tableau pour créer l'endroit où évoluait la  balle, et aussi pour créer les briques sur lesquelle rebnondissait la balle
