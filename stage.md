@@ -31,7 +31,11 @@ J'ai appris observer la structure d'un site fait en html en utilisant F12
 J'ai commencé a utiliser des IDE professionels gratuit comme IntelliJ IDEA, et des
 dispositifs comme Github.
 
-J'ai appris à observer un code afin de comprendre les commandes faites a l'ordinateur, et à compendre leurs utilités.
+J'ai appris à observer un code afin de comprendre les commandes faites a l'ordinateur, et à comprendre leurs utilités.
+
+J'ai regardé de nombreuses vidéos youtube didactique qui m'ont permis d'observer des gens coder en direct.
+
+
 
 
 
