@@ -38,7 +38,7 @@ J'ai regardé de nombreuses vidéos youtube didactique qui m'ont permis d'observ
 Ce stage m'a aussi permis d'avoir un aperçu de personnes dans une entreprise, au travail,
 j'ai pu voir qu'il ne sont que des gens normaux qui ont besoins de communiquer pour travailler efficacement;
 
-J'ai pu observer l'utilités de certaines balises den javascript.
+J'ai pu observer l'utilités de certaines balises den javascript comme aray, ou function.
 
 Les fonctions permettaient de determiner la variable q'on traitait.
 
@@ -50,10 +50,20 @@ On utilisait un tableau pour créer l'endroit où évoluait la  balle, et aussi 
 
 On utilise X et Y pour savoir les positions des éléments puisqu'on se place dans un repère orthonormal.
 
-J'ai appris qu'un stimulis pouvait déclencher une action, exemple, appuyer sur une touche induisait une réaction de l'ordi
-et que cette réaction était défini grâce à un code.
+J'ai appris qu'un stimulis pouvait déclencher une action, exemple, appuyer sur une touche induisait une réaction de l'ordinateur.
 
-J'ai appris q'en javascript on énonçait les variables en les définissant par leur tailles, leur largeur etc... 
+J'ai appris qu'en javascript on énonçait les variables en les définissant par leur tailles, leur largeur etc...
+ 
+La balise loop permet de répeter une action en boucle
+
+On peut arrêter cette boucle en faisant une action., ex perdre ou gagner
+
+Pour créer les briques dans le jeu on lance une fonction très utiulisée: for (var j=0; j < nbrBriqueLignes; j++)
+
+On commence sans brique (j=o), et tant que j est inferieur au nombre de brique par lignes (j< nbrBriqueLignes) on rajoute 1 a j (j++)
+ 
+ 
+                                                                        
 
 
 
