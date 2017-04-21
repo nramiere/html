@@ -11,7 +11,31 @@ Le rôle de mon oncle a l’interieur de la partie informatique de la banque ét
  
  De ce fait, je n’ai pas beaucoup pu profiter de mon oncle puisqu’il avait beaucoup à faire, j’avais cependant des instructions concernat des choses à regarder ou à faire qui touchait le monde de l’informatique comme un néophyte comme moi peut l’aborder.
   
-  Nous avions assez parlé durant le week-end des point essentiels de son travail pour que je comprenne ce qu’il faisait. J’ai de plus eu la chance d’assister à une discussion entre mon oncle et certains de ses associés sur la possibilité de créer une autre entreprise, j’ai pu donc voir certains détails importants a ce propos, sur lesquel je ne m’étendrai pas. 
-Cete plongée dans le monde informatique d’une grande entreprise m’a offert une vision privilégiée de la réalité de l’informatique en temps qu’avenir professionnel, et bien que j’avoue avoir vécus certaines désillusions mineurs et inévitable, cela m’a plus que jamais donné l’envie de continuer sur la voie de l’informatique. Je songe serieusement a suivre les conseils de 
+  Nous avions assez parlé durant le week-end des point essentiels de son travail pour que je comprenne ce qu’il faisait dans les grandes lignes. 
+  
+  J’ai de plus eu la chance d’assister à une discussion entre mon oncle et certains de ses associés sur la possibilité de créer une autre entreprise, j’ai pu donc voir certains détails importants à ce propos, sur lesquel je ne m’étendrai pas.
+   
+Cette plongée dans le monde informatique d’une grande entreprise m’a offert une vision privilégiée de la réalité de l’informatique en temps qu’avenir professionnel, et bien que j’avoue avoir vécus certaines désillusions mineurs et inévitable, cela m’a plus que jamais donné l’envie de continuer sur la voie de l’informatique.
+ 
+ Je songe serieusement a suivre les conseils des personnes qui m'ont recommandés de faire certaines écoles.
+ 
+# Conaissances
+J'ai appris me rendre sur le bios d'un ordinateur, ce qui permet d'atteindre les paramètres premiers de l'ordinateur.
+ 
+J'ai appris le fonctionnement du bitcoin et des blochains qui prennent peu à peu une place importante dans les transactions internet et mondiales.
+
+J'ai amélioré mes connaissances dans de nombreux languages commme le html le javascript et le python.
+   
+J'ai appris observer la structure d'un site fait en html en utilisant F12
+
+J'ai commencé a utiliser des IDE professionels gratuit comme IntelliJ IDEA, et des
+dispositifs comme Github.
+
+J'ai appris à observer un code afin de comprendre les commandes faites a l'ordinateur, et à compendre leurs utilités.
 
 
+
+
+ 
+ 
+ 
