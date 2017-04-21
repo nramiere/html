@@ -90,8 +90,19 @@ Le triangle de Sierpinski est un bon exemple de figures récursives.
 
 On a aussi Julia 7, qui montre la beauté fascinante que peut créer la récursion.
 
+## Information et son
 
+Durant mon stage j'ai aussi pu voir des des disques d'info gigantesques, contenant des terra d'informations.
+
+Et j'ai aussi pu voir une carte micro SD, un peu plus grande que l'ongle de mon pouce, qui contenait 32 G d'informations
  
+Les infos étaients stockés, et séparés par une dizaine d'atomes entre eux seulement 
+
+J'ai aussi pu avoir la réponse à une question que je me posais depuis longtemps: comment stocker de la musique electroniquemenr ?
+
+J'ai eu la réponse: tant que l'onde augmente, l'info est transformé en 1, lorsqu'elle diminue, elle se transforme en 0
+
+Il est aisnsi possible (avec quelques petits ajustements) de stocker de la musique éléctroniquement 
  
                                                                         
 
