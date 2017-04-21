@@ -38,6 +38,23 @@ J'ai regardé de nombreuses vidéos youtube didactique qui m'ont permis d'observ
 Ce stage m'a aussi permis d'avoir un aperçu de personnes dans une entreprise, au travail,
 j'ai pu voir qu'il ne sont que des gens normaux qui ont besoins de communiquer pour travailler efficacement;
 
+J'ai pu observer l'utilités de certaines balises den javascript.
+
+Les fonctions permettaient de determiner la variable q'on traitait.
+
+Les balises if/else if permettent de poser une condition a a un code.
+
+Dans le code du casse brique que j'ai pu étudier, on utlisait les maths pour déterminer les conditions de rebond de la balle
+
+On utilisait un tableau pour créer l'endroit où évoluait la  balle, et aussi pour créer les briques sur lesquelle rebnondissait la balle
+
+On utilise X et Y pour savoir les positions des éléments puisqu'on se place dans un repère orthonormal.
+
+J'ai appris qu'un stimulis pouvait déclencher une action, exemple, appuyer sur une touche induisait une réaction de l'ordi
+et que cette réaction était défini grâce à un code.
+
+J'ai appris q'en javascript on énonçait les variables en les définissant par leur tailles, leur largeur etc... 
+
 
 
 
