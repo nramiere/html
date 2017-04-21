@@ -1,5 +1,5 @@
 # Ce que je tire de ce stage
-## 1.Les connaissances technique
+## 1.Les connaissances techniques
 Depuis mon arrivée chez mon oncle le samedi midi, jusqu’au samedi suivant, je n’ai pas arrêté d’améliorer mes connaissances des différents langages : le html en première position, qui permet de créer des sites web et de mieux comprendre comment ils fonctionnent, mais aussi le css qui permet d’apporter des précisions intéressantes dans la mise en pages des sites, ainsi que le javascript, qui est un langage utilisé partout dans le monde, et dernièrement le python.
  
  J’ai pu aussi avoir un aperçu du fonctionnement de certains outils informatique, comme Git hub, qui permet aux informaticicens de travailler en coordination, ou même Kafka, qui est la base de gestion des messages informatique dans la BNP Paribas.
@@ -22,27 +22,27 @@ Cette plongée dans le monde informatique d’une grande entreprise m’a offert
 # Conaissances
 J'ai appris me rendre sur le bios d'un ordinateur, ce qui permet d'atteindre les paramètres premiers de l'ordinateur.
  
-J'ai appris le fonctionnement du bitcoin et des blochains qui prennent peu à peu une place importante dans les transactions internet et mondiales.
+J'ai appris le fonctionnement du bitcoin et des blockchains qui prennent peu à peu une place importante dans les transactions internet et mondiales.
 
-J'ai amélioré mes connaissances dans de nombreux languages commme le html le javascript et le python.
+J'ai amélioré mes connaissances dans de nombreux languages commme le html, le javascript et le python.
    
-J'ai appris observer la structure d'un site fait en html en utilisant F12
+J'ai appris à observer la structure d'un site fait en html en utilisant F12
 
 J'ai commencé a utiliser des IDE professionels gratuit comme IntelliJ IDEA, et des
 dispositifs comme Github.
 
-J'ai appris à observer un code afin de comprendre les commandes faites à l'ordinateur, et à comprendre leurs utilitées.
+J'ai appris à observer un code afin de comprendre les commandes faites à l'ordinateur, et leurs utilitées.
 
 J'ai regardé de nombreuses vidéos youtube didactique qui m'ont permis d'observer des gens coder en direct.
 
-Ce stage m'a aussi permis d'avoir un aperçu de personnes dans une entreprise, au travail,
+Ce stage m'a aussi permis d'avoir un aperçu de personnes dans une entreprise, au travail;
 j'ai pu voir qu'il ne sont que des gens normaux qui ont besoins de communiquer pour travailler efficacement;
 
 J'ai pu observer l'utilité de certaines balises den javascript comme aray, ou function.
 
-Les fonctions permettaient de determiner la variable q'on traitait.
+Les fonctions permettaient de determiner la variable qu'on traite.
 
-Les balises if/else if permettent de prévoir les differentes possibilités qui peuvent arriver et d'en informer l'ordinateur.
+Les balises if/else if permettent d'informer l'ordinateur des choix a adopter en fonction des situations qui se présentent.
 
 ## Casse-brique
 
@@ -60,13 +60,13 @@ La balise loop permet de répeter une action en boucle
 
 On peut arrêter cette boucle en faisant une action., ex perdre ou gagner
 
-Pour créer les briques dans le jeu on lance une fonction très utiulisée: for (var j=0; j < nbrBriqueLignes; j++)
+Pour créer les briques dans le jeu on lance une fonction très utilisée: for (var j=0; j < nbrBriqueLignes; j++)
 
 On commence sans brique (j=o), et tant que j est inferieur au nombre de brique par lignes (j< nbrBriqueLignes) on rajoute 1 a j (j++)
 
 On peut créer un commande pour rafraîchir toutes les x secondes
 
-Pour aller avec la commande qui indique que le déplacement est lié a certaines touches, on en crée une autre qui demande a l'ordinateur de verifier lorsque ces touches sont préssées
+Pour aller avec la commande qui indique que le déplacement est lié a certaines touches, on en crée une autre qui demande a l'ordinateur de vérifier lorsque ces touches sont pressées
  
 La fonction gagne est activé lorsque toutes les briques sont détruites, elle ouvre une fenêtre qui affiche "Félicitations"
 
@@ -104,6 +104,7 @@ J'ai eu la réponse: tant que l'onde augmente, l'info est transformé en 1, lors
 
 Il est aisnsi possible (avec quelques petits ajustements) de stocker de la musique éléctroniquement 
  
+#
                                                                         
 
 
