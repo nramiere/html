@@ -35,7 +35,8 @@ J'ai appris à observer un code afin de comprendre les commandes faites a l'ordi
 
 J'ai regardé de nombreuses vidéos youtube didactique qui m'ont permis d'observer des gens coder en direct.
 
-
+Ce stage m'a aussi permis d'avoir un aperçu de personnes dans une entreprise, au travail,
+j'ai pu voir qu'il ne sont que des gens normaux qui ont besoins de communiquer pour travailler efficacement;
 
 
 
