@@ -63,6 +63,18 @@ On peut arrêter cette boucle en faisant une action., ex perdre ou gagner
 Pour créer les briques dans le jeu on lance une fonction très utiulisée: for (var j=0; j < nbrBriqueLignes; j++)
 
 On commence sans brique (j=o), et tant que j est inferieur au nombre de brique par lignes (j< nbrBriqueLignes) on rajoute 1 a j (j++)
+
+On peut créer un commande pour rafraîchir toutes les x secondes
+
+Pour aller avec la commande qui indique que le déplacement est lié a certaines touches, on en crée une autre qui demande a l'ordinateur de verifier lorsque ces touches sont préssées
+ 
+La fonction gagne est activé lorsque toutes les briques sont détruites, elle ouvre une fenêtre qui affiche "Félicitations"
+
+La fonction perd est activé lorsque la balle passe en dessous de la barre de jeu.
+
+Il est possible de modifier le code pour toujours gagner/perdre
+
+
  
  
                                                                         
