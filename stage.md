@@ -74,7 +74,21 @@ La fonction perd est activé lorsque la balle passe en dessous de la barre de je
 
 Il est possible de modifier le code pour toujours gagner/perdre
 
+## Récursion
 
+La récursion est une fonction qui, après s'être achevé, s'appelle de nouveau, se réactive
+
+Elle ressemble en quelque sorte a la balise loop
+
+La récursion a de nombreuses fonctions.
+
+On s'en sert par exemple dans les jeux-vidéos pour tester des déplacements
+
+On peut s'en servir aussi pour les programmes nécessitant que la même action soit faites de nombreuses fois
+
+Le triangle de Sierpinski est un bon exemple de figures récursives.
+
+On a aussi Julia 7, qui montre la beauté fascinante que peut créer la récursion
  
  
                                                                         
