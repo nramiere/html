@@ -16,7 +16,7 @@ Les css ne sont pas des codes à proprement parler, nous en reparlerons plus bas
 
 ##HTML, syntaxe et principales balises
 
-Un code en HTML commmence nécessairement par la balise <html> et se finit par la balise </html>.
+Un code en HTML commmence nécessairement par la balise html, encadré par < et>et se finit par la meme balise encadré de </ >
 
 C'est la même chose pour toutes les balises.
 
@@ -26,7 +26,7 @@ Il existe des dizaines de balises differentes, qui servent a produire pleins de 
 
 La balise "texte area" permet par ex d'écrire dans un cadre.
 
-La balise "br" permet de revenir a la ligne, mais elle n'est pas beaucoup utilisée, à cause de certains défauts.
+La balise "br" permet de revenir à la ligne, mais elle n'est pas beaucoup utilisée, à cause de certains défauts.
 
 La balise "input" indique une zone à remplir par un utilisateur, il faut en général préciser ces infos (name, age...)
 
@@ -36,7 +36,7 @@ La plupart des balises se completent, ex: un "style" se trouvera a l'interieur d
 
 ##HTML et css
 
-Les css servent a rajouter des détails dans un code en html
+Les css servent à rajouter des détails dans un code en html
 
 Par exemple, pour utiliser une police autre que celle de base.
 
@@ -45,14 +45,6 @@ Ou bien pour colorer une "text area" et un tableau.
 Il existe un grand nombre de fonctions aux css, qu'il serait trop long de citer ici (voir Zeal, CSS reference)
 
 Ils ont plusieurs structures differentes, l'une d'entre elle est la suivante: 
-
-<html>
- <body>
- <p>
- Superman is probably the strongest super hero, enven though Goku is bolder
- </p>
- </body>
-</html> 
 
 strong {color: red;}
 etc...
